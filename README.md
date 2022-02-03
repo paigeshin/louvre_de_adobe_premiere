@@ -9,3 +9,5 @@
 [Audio Fadeout Effect](https://adobemasters.net/how-to-fade-out-audio-premiere-pro-cc/)
 
 [Video Fadeout Effect](https://www.youtube.com/watch?v=iFINw1T8ZuY)
+
+[Image Positioning](https://www.youtube.com/watch?v=E_7DMINPENs)
